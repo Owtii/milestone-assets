@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Barbarian King",
+    "description": "The Barbarian King is the mightiest of all Barbarians.",
+    "level": 75,
+    "isActive": true,
+    "birthDate": "2012-10-15",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/barbarian-king.png",
+    "status": "active",
+    "roles": ["Tank", "Damage Dealer"],
+    "additionalInfo": {
+      "id": 101,
+      "isLegendary": true,
+      "abilities": {
+        "Iron Fist": "Boosts his damage and health for a short time.",
+        "Regeneration": true
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Archer Queen",
+    "description": "The Archer Queen is an elite unit that deals damage from afar.",
+    "level": 80,
+    "isActive": true,
+    "birthDate": "2013-02-01",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/archer-queen.png",
+    "status": "active",
+    "roles": ["Ranged Attacker"],
+    "additionalInfo": {
+      "id": 102,
+      "isLegendary": true,
+      "abilities": {
+        "Royal Cloak": "Turns invisible and deals extra damage.",
+        "Regeneration": true
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Grand Warden",
+    "description": "The Grand Warden is a support hero who boosts nearby troops.",
+    "level": 60,
+    "isActive": true,
+    "birthDate": "2016-12-07",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/grand-warden.png",
+    "status": "active",
+    "roles": ["Support", "Healer"],
+    "additionalInfo": {
+      "id": 103,
+      "isLegendary": true,
+      "abilities": {
+        "Life Aura": "Protects troops within range.",
+        "Regeneration": false
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Battle Machine",
+    "description": "A powerful machine from the Builder Base that deals massive damage.",
+    "level": 30,
+    "isActive": false,
+    "birthDate": "2017-05-23",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/battle-machine.png",
+    "status": "inactive",
+    "roles": ["Damage Dealer"],
+    "additionalInfo": {
+      "id": 104,
+      "isLegendary": false,
+      "abilities": {
+        "Electric Hammer": "Deals a shockwave of damage.",
+        "Regeneration": false
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "P.E.K.K.A",
+    "description": "P.E.K.K.A is a heavily armored melee unit with high hitpoints.",
+    "level": 9,
+    "isActive": true,
+    "birthDate": "2013-07-11",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/pekka.png",
+    "status": "active",
+    "roles": ["Tank", "Damage Dealer"],
+    "additionalInfo": {
+      "id": 105,
+      "isLegendary": false,
+      "abilities": {
+        "Electro Charge": "Delivers a powerful attack upon impact.",
+        "Regeneration": false
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Wizard",
+    "description": "The Wizard attacks enemies with fireballs from a distance.",
+    "level": 10,
+    "isActive": true,
+    "birthDate": "2012-04-10",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/wizard.png",
+    "status": "active",
+    "roles": ["Ranged Attacker", "Splash Damage"],
+    "additionalInfo": {
+      "id": 106,
+      "isLegendary": false,
+      "abilities": {
+        "Fireball": "Deals damage to a group of enemies.",
+        "Regeneration": false
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Hog Rider",
+    "description": "A fast, high-damage unit that jumps over walls and targets defenses.",
+    "level": 10,
+    "isActive": true,
+    "birthDate": "2014-06-11",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/hog-rider.png",
+    "status": "active",
+    "roles": ["Fast Attacker"],
+    "additionalInfo": {
+      "id": 107,
+      "isLegendary": false,
+      "abilities": {
+        "Jump": "Leaps over enemy walls.",
+        "Regeneration": false
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Wall Breaker",
+    "description": "A skeleton unit that carries bombs to destroy walls.",
+    "level": 9,
+    "isActive": false,
+    "birthDate": "2012-10-21",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/wall-breaker.png",
+    "status": "inactive",
+    "roles": ["Wall Breaker"],
+    "additionalInfo": {
+      "id": 108,
+      "isLegendary": false,
+      "abilities": {
+        "Explosive Charge": "Blows up walls on contact.",
+        "Regeneration": false
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Baby Dragon",
+    "description": "A flying unit that deals more damage when alone.",
+    "level": 7,
+    "isActive": true,
+    "birthDate": "2016-05-24",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/baby-dragon.png",
+    "status": "active",
+    "roles": ["Air Attacker", "Splash Damage"],
+    "additionalInfo": {
+      "id": 109,
+      "isLegendary": false,
+      "abilities": {
+        "Rage": "Becomes enraged when no other troops are nearby.",
+        "Regeneration": false
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Golem",
+    "description": "The Golem is a slow-moving tank that explodes into two smaller Golemites when destroyed.",
+    "level": 11,
+    "isActive": true,
+    "birthDate": "2012-08-09",
+    "profileImageURL": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/golem.png",
+    "status": "active",
+    "roles": ["Tank"],
+    "additionalInfo": {
+      "id": 110,
+      "isLegendary": false,
+      "abilities": {
+        "Golemites": "Splits into two smaller units upon death.",
+        "Regeneration": false
+      }
+    }
+  }
+]
