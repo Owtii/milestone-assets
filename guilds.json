@@ -1,0 +1,26 @@
+[
+  {
+    "id": "GUILD-001",
+    "name": "Legends of Clash",
+    "guildMaster": "King Maximus",
+    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-legends.png",
+    "foundedYear": 2011,
+    "motto": "Strength in Unity"
+  },
+  {
+    "id": "GUILD-002",
+    "name": "Dark Alliance",
+    "guildMaster": "Queen Vex",
+    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-dark.png",
+    "foundedYear": 2012,
+    "motto": "Victory Through Shadows"
+  },
+  {
+    "id": "GUILD-003",
+    "name": "Sky Guardians",
+    "guildMaster": "Warden Elric",
+    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-sky.png",
+    "foundedYear": 2013,
+    "motto": "Watchers From Above"
+  }
+]
