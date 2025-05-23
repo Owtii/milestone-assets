@@ -11,6 +11,7 @@
     "roles": ["Tank", "Damage Dealer"],
     "additionalInfo": {
       "id": 101,
+      "guildId": "GUILD_001",
       "isLegendary": true,
       "abilities": {
         "Iron Fist": "Boosts his damage and health for a short time.",
@@ -30,6 +31,7 @@
     "roles": ["Ranged Attacker"],
     "additionalInfo": {
       "id": 102,
+      "guildId": "GUILD_002",
       "isLegendary": true,
       "abilities": {
         "Royal Cloak": "Turns invisible and deals extra damage.",
@@ -49,6 +51,7 @@
     "roles": ["Support", "Healer"],
     "additionalInfo": {
       "id": 103,
+      "guildId": "GUILD_002",
       "isLegendary": true,
       "abilities": {
         "Life Aura": "Protects troops within range.",
@@ -68,6 +71,7 @@
     "roles": ["Damage Dealer"],
     "additionalInfo": {
       "id": 104,
+      "guildId": "GUILD_001",
       "isLegendary": false,
       "abilities": {
         "Electric Hammer": "Deals a shockwave of damage.",
@@ -87,6 +91,7 @@
     "roles": ["Tank", "Damage Dealer"],
     "additionalInfo": {
       "id": 105,
+      "guildId": "GUILD_001",
       "isLegendary": false,
       "abilities": {
         "Electro Charge": "Delivers a powerful attack upon impact.",
@@ -106,6 +111,7 @@
     "roles": ["Ranged Attacker", "Splash Damage"],
     "additionalInfo": {
       "id": 106,
+      "guildId": "GUILD_003",
       "isLegendary": false,
       "abilities": {
         "Fireball": "Deals damage to a group of enemies.",
@@ -125,6 +131,7 @@
     "roles": ["Fast Attacker"],
     "additionalInfo": {
       "id": 107,
+      "guildId": "GUILD_003",
       "isLegendary": false,
       "abilities": {
         "Jump": "Leaps over enemy walls.",
@@ -144,6 +151,7 @@
     "roles": ["Wall Breaker"],
     "additionalInfo": {
       "id": 108,
+      "guildId": "GUILD_002",
       "isLegendary": false,
       "abilities": {
         "Explosive Charge": "Blows up walls on contact.",
@@ -163,6 +171,7 @@
     "roles": ["Air Attacker", "Splash Damage"],
     "additionalInfo": {
       "id": 109,
+      "guildId": "GUILD_003",
       "isLegendary": false,
       "abilities": {
         "Rage": "Becomes enraged when no other troops are nearby.",
@@ -182,6 +191,7 @@
     "roles": ["Tank"],
     "additionalInfo": {
       "id": 110,
+      "guildId": "GUILD_001",
       "isLegendary": false,
       "abilities": {
         "Golemites": "Splits into two smaller units upon death.",
