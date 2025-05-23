@@ -1,26 +1,26 @@
 [
   {
-    "id": "GUILD-001",
-    "name": "Legends of Clash",
-    "guildMaster": "King Maximus",
-    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-legends.png",
-    "foundedYear": 2011,
-    "motto": "Strength in Unity"
+    "id": "GUILD_001",
+    "name": "Order of the Legends",
+    "guildMaster": "Elder Titan",
+    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-order-legends.png",
+    "foundedYear": 2010,
+    "motto": "Power and Honor"
   },
   {
-    "id": "GUILD-002",
-    "name": "Dark Alliance",
-    "guildMaster": "Queen Vex",
-    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-dark.png",
-    "foundedYear": 2012,
-    "motto": "Victory Through Shadows"
-  },
-  {
-    "id": "GUILD-003",
-    "name": "Sky Guardians",
-    "guildMaster": "Warden Elric",
-    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-sky.png",
+    "id": "GUILD_002",
+    "name": "Shadow Assailants",
+    "guildMaster": "Night Stalker",
+    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-shadow-assailants.png",
     "foundedYear": 2013,
-    "motto": "Watchers From Above"
+    "motto": "Strike from the Dark"
+  },
+  {
+    "id": "GUILD_003",
+    "name": "Skyfire Guardians",
+    "guildMaster": "Celestial Queen",
+    "guildEmblemUrl": "https://raw.githubusercontent.com/Owtii/milestone-assets/main/images/guild-skyfire-guardians.png",
+    "foundedYear": 2015,
+    "motto": "Above All, We Watch"
   }
 ]
